@@ -42,8 +42,8 @@ mkdir public
 5.	  <title>Docker Challenge</title>
 6.	</head>
 7.	<body>
-8.	  <h1>Henilkumar Patel</h1>
-9.	  <p>SAIT ID: 000903845</p>
+8.	  <h1>George Simon</h1>
+9.	  <p>SAIT ID: 000898433</p>
 10.	</body>
 11.	</html>
 o	Replace Your Name and YourID with your actual name and SAIT ID.
