@@ -1,8 +1,8 @@
 Docker Assignment Instructions
 How to make containers, Images, and Compose on Docker for Windows
-Student Name: Henil Patel
-Student Number: 000903845
-Email: henilpatelmiteshbhai12@gmail.com
+Student Name: George Simon
+Student Number: 000898433
+Email: georgedan.20@gmail.com
 Github Link: 
 ________________________________________
 1. Introduction
